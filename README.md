@@ -23,6 +23,12 @@
 ### [Multidisciplinary Design Project (MDP)](https://github.com/AryanSethi20/MDP-Algorithm)
 - Developed an autonomous robot using **A* search** and **ray-casting algorithms** to navigate complex mazes, leading the team to rank **1st out of 40**.
 
+### [Query Optimizer](https://github.com/AryanSethi20/Database-System-Principles-Project)
+- Designed and implemented a software that facilitates visual exploration of disk blocks accessed by a given input SQL query as well as various features of the corresponding Query Execution Plan.
+
+### [Database Design](https://github.com/indicium15/sc3020-project-1)
+- Designed and implemented an optimized database for a large dataset. Also developed and integrated a **B+ Tree** indexing mechanism.
+
 ### [Wanderful – A Carpooling Application](https://github.com/AryanSethi20/Backend-wanderer)
 - Built a carpooling platform to reduce carbon emissions in Singapore by **20%**, utilizing **Django**, **React**, and **SQLite**.
 
