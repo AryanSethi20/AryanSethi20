@@ -4,7 +4,7 @@
 
 ## 💼 Work Experience
 
-### [GetGo Carsharing](https://getgo.com.sg) - Junior Developer Intern (Jan 2024 – Aug 2024)
+### [GetGo Carsharing](https://getgo.sg) - Junior Developer Intern (Jan 2024 – Aug 2024)
 ### [ZoopUp](https://zoopup.com) - Full Stack Developer Intern (Aug 2023 – Dec 2023)
 ### [Just Dabao](https://justdabao.com) - Software Engineer Intern (May 2023 – Jul 2023)
 ### Co-Founder at BookGram (Jun 2021 – Jun 2022)
